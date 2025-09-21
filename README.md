@@ -1,1 +1,1 @@
-[Git-Hub - Demo](https://github.com/Hariprasathselvamani/Jio-Mart.git)
+[GitHub - Demo](https://github.com/Hariprasathselvamani/Jio-Mart.git)
